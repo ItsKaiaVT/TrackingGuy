@@ -19,11 +19,8 @@ bot.on("messageCreate", async message => {
     let args = messageArray.slice(1)
 
     if(cmd === `${prefix}test`){
-      // message.reply("hi")
-        if(message.content.includes === args) {
-            message.reply("you don't have args bitch")
+      message.channel.send("hi") // known working 1/3/26
         }
-    }
 
 
 })

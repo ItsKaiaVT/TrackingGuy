@@ -1,0 +1,3 @@
+TrackingGuy is a privately made Discord bot that only stores the tracking numbers and carriers you provide to allow you to check your package status later. It does not collect, store, or share any other personal information, messages, or Discord data. All stored tracking numbers are used solely for the purpose of tracking and can be deleted upon user request.
+
+Please contact Kaia (<@991927125143736340>) for removal of data.

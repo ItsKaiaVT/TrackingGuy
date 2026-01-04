@@ -152,7 +152,7 @@ async function getTracking(trackingNumber, carrier) {
 }
 
 // ------------------ DISCORD EVENTS ------------------
-bot.once("ready", () => {
+bot.once("clientReady", () => {
     console.log("Bot online");
     bot.user.setActivity("Package Locations", { type: ActivityType.Watching });
 });
